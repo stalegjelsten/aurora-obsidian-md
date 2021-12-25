@@ -1024,6 +1024,17 @@ h6 a.tag {
 }
 
 /**-------------------**
+| Graph links styling
+**--------------------**/
+
+.graph-view.color-line {
+  color: var(--interactive-accent);
+}
+.graph-view.color-line-highlight { 
+  color: var(--interactive-accent-hover);
+}
+
+/**-------------------**
 | INLINE CODE STYLING
 **--------------------**/
 
